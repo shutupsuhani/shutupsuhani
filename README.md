@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<h1 align="center" style="color:#faebee">
+  <img height="40px" src="https://img.shields.io/badge/-Hello world!👋-faebee?&style=for-the-badge&logoWidth=50" />
+</h1>
 <!--
 **shutupsuhani/shutupsuhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
