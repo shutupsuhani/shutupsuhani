@@ -18,6 +18,8 @@
   <a href="mailto:sahusuhani14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
+<img align="center" width="90%" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
 <!--
 **shutupsuhani/shutupsuhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
