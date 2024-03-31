@@ -18,6 +18,64 @@
   <a href="mailto:sahusuhani14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
+```
+
+ class Developer {
+    constructor() {
+        this.name = "Suhani Sahu 😄";
+        this.role = "Full-Stack Developer 💻";
+        this.love = "Javascript 🚀";
+        this.location = "In the middle of nowhere 🏜️"; // Embracing the solitude
+    }
+
+    say_hi() {
+        console.log("Thanks for dropping by, hope you find some of my work interesting.");
+    }
+}
+
+let me = new Developer();
+me.say_hi();
+
+```
+<h1 align="center">
+  <img height="40px" src="https://img.shields.io/badge/-My Tech Stack-faebee?&style=for-the-badge&logoWidth=50" />
+</h1>
+<div align="center">
+        
+<h3 align="center">
+  <img height="25px" src="https://img.shields.io/badge/-Languages-faebee?&style=for-the-badge&logoWidth=50" />
+</h3>
+
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/TypeScript-%2300ADD8.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<h3 align="center">
+  <img height="25px" src="https://img.shields.io/badge/-Backend Frameworks-faebee?&style=for-the-badge&logoWidth=50" />
+</h3>
+
+![image](https://img.shields.io/badge/Node%20JS-%23092E20.svg?style=for-the-badge&logo=node%20js&logoColor=white)
+![image](https://img.shields.io/badge/Express%20JS-ff1709?style=for-the-badge&logo=express%20js&logoColor=white)
+![image](https://img.shields.io/badge/rest%20api-109989?style=for-the-badge&logo=REST%20API&logoColor=white)
+
+<h3 align="center">
+  <img height="25px" src="https://img.shields.io/badge/-Frontend Frameworks-faebee?&style=for-the-badge&logoWidth=50" />
+</h3>
+
+![image](https://img.shields.io/badge/React%20JS-%23092E20.svg?style=for-the-badge&logo=reactjs&logoColor=white)
+
+
+<h3 align="center">
+  <img height="25px" src="https://img.shields.io/badge/-Database-faebee?&style=for-the-badge&logoWidth=50" />
+</h3>
+
+![image](https://img.shields.io/badge/mongo%20db-%23316192.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/mysql-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+</div>
+
 <img align="center" width="90%" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 <!--
