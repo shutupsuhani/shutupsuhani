@@ -12,6 +12,8 @@
 
   <img src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32&center=true&vCenter=true&width=600&height=50&pause=1000&vCenter=true&background=faebee&lines=Hi+there+I%27m+Suhani+Sahu+%F0%9F%91%8B;Full-Stack+Developer;Frontend+Developer;Problem+Solver;Open%20Source%20Enthusiast;" alt="Headline" />
 
+   <img align="center" width="80%" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
+  
    <h1 align="center" style="color:#faebee">
   <img height="40px" src="https://img.shields.io/badge/-Find Me On-faebee?&style=for-the-badge&logoWidth=50" />
 </h1>
@@ -60,10 +62,10 @@
 ![image](https://img.shields.io/badge/mongo%20db-%23316192.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/mysql-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shutupsuhani" alt="shutupsuhani" /></p>
 </div>
 
-<img align="center" width="90%" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
 
 <!--
 **shutupsuhani/shutupsuhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
