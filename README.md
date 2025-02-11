@@ -53,6 +53,7 @@
 </h3>
 
 ![image](https://img.shields.io/badge/React%20JS-%23092E20.svg?style=for-the-badge&logo=reactjs&logoColor=white)
+![image](https://img.shields.io/badge/Next%20JS-%23092E20.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 
 
 <h3 align="center">
@@ -62,7 +63,7 @@
 ![image](https://img.shields.io/badge/mongo%20db-%23316192.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/mysql-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shutupsuhani" alt="shutupsuhani" /></p>
+
 </div>
 
 
